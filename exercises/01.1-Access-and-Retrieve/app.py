@@ -9,3 +9,4 @@ my_list[my_list.index('thursday')]=None
 
 # 3. print that position now here
 print([my_list.index(None)])
+print(my_list)
