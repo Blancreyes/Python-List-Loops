@@ -6,7 +6,7 @@ print (my_list[2])
 
 # 2. change the position were 'thursday' is to None
 my_list[my_list.index('thursday')]=None
+print(my_list[4])
 
 # 3. print that position now here
 print([my_list.index(None)])
-print(my_list)

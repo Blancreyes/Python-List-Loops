@@ -12,7 +12,4 @@ tasks = [
 
 
 #Your code go here:
-done_task = (list(filter(lambda task: task["done"]==True, tasks)))
-
-print(done_task)
 
